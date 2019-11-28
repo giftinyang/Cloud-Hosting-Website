@@ -1,10 +1,16 @@
 {
 	"folders": [
 		{
+			"name": "fylo-dack-theme-landing-page",
 			"path": "C:\\Users\\FELL\\Desktop\\fylo-dack-theme-landing-page"
-		},	
+		},
 		{
-			"path": "C:\\Users\\FELL\\Desktop\\Cloud-Hosting Website"
+			"name": "car",
+			"path": "C:\\Users\\FELL\\Downloads\\car"
+		},
+		{
+			"name": "Cloud-Hosting Website",
+			"path": "."
 		}
 	],
 	"settings": {

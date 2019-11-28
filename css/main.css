@@ -1,3 +1,6 @@
+body {
+  background-color: #eee !important;
+}
 .header {
   background-color: #1C2431;
   color: white;
@@ -37,23 +40,39 @@ ul {
   width: 10%;
   font-weight: bold;
 }
-.container {
-  display: flex;
-  flex-direction: row;
-  box-shadow: 0px 0px 2px 2px solid gray;
-  margin-top: 8rem;
-  background-color: white;
-  color: black;
-  width: 80%;
-  padding: 30px 40px;
-  text-align: center;
-  font-weight: bold;
-  /* background-position: inherit; */
+.owl-dots {
+  float:left !important;
+  margin-left:250px;
 }
-.main{
+#car_sel{
+  background-color: #1C2431;
+  height: 100px;
+}
+
+.hero_dev {
+  position: relative;
+  top:90px !important;
+  margin:0px 50px;
+  background-color: white;
+  padding:30px 0px;
+  color:black !important;
+}
+.second-section {
+  padding-top:90px !important;
+}
+
+.card-container{
   display: flex;
-  flex-direction: row;
-  
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.img-img{
+  flex: 33.33%;
+  padding: 5px;
+  flex-direction: column;
+  align-self: flex-start;
 }
    
   
