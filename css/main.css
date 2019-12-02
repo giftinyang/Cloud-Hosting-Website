@@ -21,7 +21,7 @@ ul {
 }
 .head-but {
   padding: 5px 10px;
-  background-color: teal;
+  background-color: #1FDB84;
   border-radius: 10px 0px 10px 0px;
   color: white;
   border: none;
@@ -33,7 +33,7 @@ ul {
 }
 .head-but2 {
   padding: 5px 20px 5px 20px;
-  background-color: seagreen;
+  background-color: #1FDB84;
   color: white;
   border: none;
   border-radius: 10px 0px 10px 0px;
@@ -44,9 +44,11 @@ ul {
   float:left !important;
   margin-left:250px;
 }
-#car_sel{
-  background-color: #1C2431;
-  height: 65vh;
+
+#background-carosel{
+  background-image: url('../asstes/images/Testimonials\ \(1\).png');
+  height:500px;
+  background-size:cover
 }
 
 .hero_dev {
@@ -71,6 +73,17 @@ ul {
   flex-direction: column;
   align-self: flex-start;
 }
-   
+
+.footer{
+  background-color: #1C2431;
+  color: white;
+  height: 400px;
+}
+
+.footer-nav{
+  display: flex;
+  flex-direction: column;
+}
+  
   
   
